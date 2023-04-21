@@ -1,4 +1,4 @@
-hugover: 0.69.0
+hugover: 0.111.3
 serve:
   - key: default
     config: config.yml
